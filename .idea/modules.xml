@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT-1-Welcome/BT-1-Welcome.iml" filepath="$PROJECT_DIR$/BT-1-Welcome/BT-1-Welcome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-2-NumberIntoWord/BT-2-NumberIntoWord.iml" filepath="$PROJECT_DIR$/BT-2-NumberIntoWord/BT-2-NumberIntoWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IntroductionToJava.iml" filepath="$PROJECT_DIR$/.idea/IntroductionToJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH-7-CalculateBMI/TH-7-CalculateBMI.iml" filepath="$PROJECT_DIR$/TH-7-CalculateBMI/TH-7-CalculateBMI.iml" />
     </modules>
   </component>
 </project>
